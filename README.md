@@ -46,7 +46,7 @@ Screenshot_20260616_094608.png , Screenshot_20260616_094625.png, Screenshot_2026
 The APK file was generated and tested on an Android device.
 
 ## Video Demonstration
-(To be added)
+https://youtu.be/VkNRGwMqwCA?si=wLVzhfeoiwnvoFoM
 
 ## Team Members
 - Mahlatse Chokwe
