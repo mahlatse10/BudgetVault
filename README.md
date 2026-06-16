@@ -26,7 +26,9 @@ Budget Vault is a personal finance Android application designed to help users tr
 - Used Log.d to track expense creation and debugging
 
 ## Screenshots
-(Add screenshots of login, dashboard, and add expense screens)
+login: Screenshot_20260616_094647.png
+dashboard:  Screenshot_20260616_094544.png  
+Screenshot_20260616_094608.png , Screenshot_20260616_094625.png, Screenshot_20260616_094647.png
 
 ## GitHub Actions
 (Not implemented due to time constraints, project focuses on core functionality)
