@@ -17,6 +17,20 @@ Budget Vault is a personal finance Android application designed to help users tr
 - Budget warning system when spending exceeds monthly limit
 - Live category total calculation dashboard
 
+  ## Design Decisions
+- Built using Kotlin and Android Studio
+- Used LinearLayout for simplicity and speed of development
+- Chose in-memory storage for prototype simplicity
+
+## Logging
+- Used Log.d to track expense creation and debugging
+
+## Screenshots
+(Add screenshots of login, dashboard, and add expense screens)
+
+## GitHub Actions
+(Not implemented due to time constraints, project focuses on core functionality)
+
 ## Data Storage
 - Local in-memory storage (prototype stage)
 - Future improvement: RoomDB integration
