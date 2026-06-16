@@ -34,7 +34,7 @@ The APK file was generated and tested on an Android device.
 
 ## Team Members
 - Mahlatse Chokwe
-- (Add your teammates here)
+- Mudodzwa Matshakatini
 
 ## Notes
 This project is part of a Portfolio of Evidence (POE) submission for Android Development.
